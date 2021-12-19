@@ -1,0 +1,20 @@
+{% extends 'home/base.html' %}
+
+{% block title %}{{ article.titre }}{% endblock title %}
+
+{% block style %}{% endblock style %}
+
+{% block body %}
+<div class="container">
+    <h1 class="text-center mt-5 mb-5">{{ article.titre }}</h1>
+
+    <p class="mb-2">{{ article.contenu }}</p>
+
+    <img class="mb-2" src="{{article.image.url}}"/>
+
+    <p class="mb-2">{{ article.tags }}</p>
+
+    <p>{{ erreur }}</p>
+</div>
+
+{% endblock body %}

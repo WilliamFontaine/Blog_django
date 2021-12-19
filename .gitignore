@@ -1,2 +1,4 @@
 
 *.pyc
+blog_django/__init__.py
+home/__init__.py
