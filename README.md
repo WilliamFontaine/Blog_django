@@ -13,9 +13,9 @@
      
 * Pour accéder au site, il suffit de se rendre sur son navigateur et entrer l'url suivante:  
      **http://127.0.0.1:8000/**
-     Le serveur est donc hébergé en local.
+     Le serveur est donc hébergé en local.    
      
-* Il ne reste plus qu'a naviguer sur le site !
+* Il ne reste plus qu'a naviguer sur le site !  
 
 ##### Vous pouvez accéder à la page d'administration avec les identifiants suivants:  
     username: admin
