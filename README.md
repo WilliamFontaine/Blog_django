@@ -1,6 +1,6 @@
 # Blog_django
  
-###Lancement du blog django:
+### Lancement du blog django:
 
 * Il faut d'abords ouvrir un terminal et se rendre dans le réperetoire où se trouve manage.py.
 
@@ -17,6 +17,6 @@
      
 * Il ne reste plus qu'a naviguer sur le site !
 
-#####Vous pouvez accéder à la page d'administration avec les identifiants suivants:
+##### Vous pouvez accéder à la page d'administration avec les identifiants suivants:
     username: admin
     password: admin
