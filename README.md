@@ -8,10 +8,10 @@
      **`python manage.py migrate`**    
   Cette commande nous permet d'effectuer les migrations nécessaires au bon fonctionnement du blog s'il y en a.  
   
-* On effectue ensuite la commande suivate:  
+* On effectue ensuite la commande suivante:  
      **`python manage.py runserver`**    
      
-* Pour accéder au site, il suffit de se rendre sur son navigateur et entrer l'url suivante:  
+* Pour accéder au site, il suffit de se rendre sur son navigateur et d'entrer l'url suivante:  
      **http://127.0.0.1:8000/**  
      Le serveur est donc hébergé en local.    
      
