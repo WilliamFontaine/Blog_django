@@ -3,7 +3,8 @@
 Ce projet consiste en une petite application web. Elles est composée d'un **back-end Django** et d'un **front-end html/css/bootstrap**. Elle repose sur une **base de données sqlite3**.  
 L'application expose des articles avec **un titre**, **un bloc de texte**, **une photo** et **un ensemble de tags**.  
 
-L'appication est lancée grâce à un conteneur **Docker**, mais elle peut aussi être lancée basiquement grâce à Django.
+L'appication est lancée grâce à un conteneur **Docker**, mais elle peut aussi être lancée basiquement grâce à Django.    
+ 
  
 ## Lancement du blog Django avec Docker:  
 
@@ -17,7 +18,8 @@ L'appication est lancée grâce à un conteneur **Docker**, mais elle peut aussi
 
 * Une fois cette cela fait, il suffit de se rendre à l'adresse suivante: **http://127.0.0.1:8000/**  
 
-* Il ne reste plus qu'à naviguer sur le site !  
+* Il ne reste plus qu'à naviguer sur le site !    
+
 
 ## Lancement du blog Django sans Docker:  
 
@@ -34,6 +36,7 @@ L'appication est lancée grâce à un conteneur **Docker**, mais elle peut aussi
      **http://127.0.0.1:8000/**    
      
 * Il ne reste plus qu'à naviguer sur le site !  
+
 
 ## Identifiants:  
 ##### Vous pouvez accéder à la page d'administration avec les identifiants suivants:  
