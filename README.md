@@ -4,7 +4,7 @@
 
 **Dans un premier temps, il faut avoir docker d'installer et correctement configuré sur sa machine**  
 
-* Ll faut d'abord ouvrir un terminal et se rendre dans le répertoire où se trouve manage.py. 
+* Il faut d'abord ouvrir un terminal et se rendre dans le répertoire où se trouve manage.py. 
 
 * On va ensuite taper la commande **`docker build --tag python-django .`**. Elle permet de créer un image pour le docker.  
 
