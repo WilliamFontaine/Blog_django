@@ -31,6 +31,6 @@
 * Il ne reste plus qu'à naviguer sur le site !  
 
 ## Identifiants:  
-#####Vous pouvez accéder à la page d'administration avec les identifiants suivants:  
+##### Vous pouvez accéder à la page d'administration avec les identifiants suivants:  
     username: admin  
     password: admin
