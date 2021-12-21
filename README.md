@@ -2,7 +2,7 @@
  
 ## Lancement du blog Django avec Docker:  
 
-**Dans un premier temps, il faut avoir docker d'installer et correctement configuré sur sa machine**  
+**Dans un premier temps, il faut avoir installer Docker et le configurer.**  
 
 * Il faut d'abord ouvrir un terminal et se rendre dans le répertoire où se trouve manage.py. 
 
