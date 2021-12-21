@@ -12,11 +12,11 @@ L'appication est lancée grâce à un conteneur **Docker**, mais elle peut aussi
 
 * Il faut d'abord ouvrir un terminal et se rendre dans le répertoire où se trouve manage.py. 
 
-* On va ensuite taper la commande **`docker build --tag python-django .`**. Elle permet de créer un image pour le docker.  
+* On va ensuite taper la commande **`docker build --tag python-django .`**. Elle permet de créer une image pour le docker.  
 
 * On tape ensuite la commande suivante: **`docker run --publish 8000:8000 python-django`**. Elle permet de créer un container pour notre site.  
 
-* Une fois cette cela fait, il suffit de se rendre à l'adresse suivante: **http://127.0.0.1:8000/**  
+* Une fois cela fait, il suffit de se rendre à l'adresse suivante: **http://127.0.0.1:8000/**  
 
 * Il ne reste plus qu'à naviguer sur le site !    
 
