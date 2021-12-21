@@ -32,5 +32,5 @@
 
 ## Identifiants:  
 * Vous pouvez accéder à la page d'administration avec les identifiants suivants:  
-    username: admin
+    username: admin  
     password: admin
