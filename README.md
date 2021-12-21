@@ -10,7 +10,9 @@
 
 * On tape ensuite la commande suivante: **`docker run --publish 8000:8000 python-django`**. Elle permet de créer un container pour notre site.  
 
-* Une fois cette cela fait, il suffit de se rendre à l'adresse suivante: **http://127.0.0.1:8000/**
+* Une fois cette cela fait, il suffit de se rendre à l'adresse suivante: **http://127.0.0.1:8000/**  
+
+* Il ne reste plus qu'à naviguer sur le site !  
 
 ## Lancement du blog Django sans Docker:  
 
@@ -24,11 +26,11 @@
      **`python manage.py runserver`**    
      
 * Pour accéder au site, il suffit de se rendre sur son navigateur et d'entrer l'url suivante:  
-     **http://127.0.0.1:8000/**  
-     Le serveur est donc hébergé en local.    
+     **http://127.0.0.1:8000/**    
      
 * Il ne reste plus qu'à naviguer sur le site !  
 
-#### Vous pouvez accéder à la page d'administration avec les identifiants suivants:  
+## Identifiants:  
+* Vous pouvez accéder à la page d'administration avec les identifiants suivants:  
     username: admin
     password: admin
