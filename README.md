@@ -1,8 +1,20 @@
 # Blog_django
  
-### Lancement du blog Django:  
+## Lancement du blog Django avec Docker:  
 
-* il faut d'abord ouvrir un terminal et se rendre dans le répertoire où se trouve manage.py.  
+**Dans un premier temps, il faut avoir docker d'installer et correctement configuré sur sa machine**  
+
+* Ll faut d'abord ouvrir un terminal et se rendre dans le répertoire où se trouve manage.py. 
+
+* On va ensuite taper la commande **`docker build --tag python-django .`**. Elle permet de créer un image pour le docker.  
+
+* On tape ensuite la commande suivante: **`docker run --publish 8000:8000 python-django`**. Elle permet de créer un container pour notre site.  
+
+* Une fois cette cela fait, il suffit de se rendre à l'adresse suivante: **http://127.0.0.1:8000/**
+
+## Lancement du blog Django sans Docker:  
+
+* Ll faut d'abord ouvrir un terminal et se rendre dans le répertoire où se trouve manage.py.  
 
 * On va ensuite exécuter la commande suivante avec python:  
      **`python manage.py migrate`**    
