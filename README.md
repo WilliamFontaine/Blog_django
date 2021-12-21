@@ -1,4 +1,9 @@
 # Blog_django
+
+Ce projet consiste en une petite application web. Elles est composée d'un **back-end Django** et d'un **front-end html/css/bootstrap**. Elle repose sur une **base de données sqlite3**.  
+L'application expose des articles avec **un titre**, **un bloc de texte**, **une photo** et **un ensemble de tags**.  
+
+L'appication est lancée grâce à un conteneur **Docker**, mais elle peut aussi être lancée basiquement grâce à Django.
  
 ## Lancement du blog Django avec Docker:  
 
